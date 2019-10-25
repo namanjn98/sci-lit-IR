@@ -1,4 +1,4 @@
-# Information Retreival from Scientific Literature
+# Information Retrieval from Scientific Literature
 Codes for Extracting Information from Scientific Articles
 
 | Files | Description | 
